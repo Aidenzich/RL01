@@ -1,6 +1,28 @@
 
 # MadMario
 PyTorch [official tutorial](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html) to build an AI-powered Mario.
+## Repo Sturcture
+```
+.
+|-- README.md
+|-- agent.py
+|-- environment.yml
+|-- main.py
+|-- metrics.py
+|-- neural.py
+|-- replay.py
+|-- requirements.txt
+|-- test.ipynb
+|-- tutorial
+|   |-- README.md
+|   |-- cheatsheet.pdf
+|   |-- tutorial_v1.ipynb
+|   |-- tutorial_v2.ipynb
+|   `-- tutorial_v2.py
+`-- wrappers.py
+
+```
+
 
 ## Set Up
 1. Install [conda](https://www.anaconda.com/products/individual)
